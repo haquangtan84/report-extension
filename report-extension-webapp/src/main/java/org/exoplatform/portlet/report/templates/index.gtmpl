@@ -1,0 +1,25 @@
+
+<%
+  import org.apache.commons.lang.StringUtils;  
+%>
+
+<div id="reportPortlet" class="uiReportPortlet" >
+   
+   
+   <div id="report-alert" style="left: 50%; position: absolute; top: 42px; display:none;" class="alert alert-success reportAlertSuccess">
+   </div>
+   
+
+   
+  
+   <h3 >&{exoplatform.report.administration.title}</h3> 
+ 
+  
+
+	<form id="Form" enctype="multipart/form-data" action="" method="POST" class="form-horizontal">
+			  
+	</form>
+
+</div>
+
+
