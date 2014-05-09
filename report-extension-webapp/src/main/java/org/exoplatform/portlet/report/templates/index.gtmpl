@@ -6,19 +6,16 @@
 <div id="reportPortlet" class="uiReportPortlet" >
    
    
-   <div id="report-alert" style="left: 50%; position: absolute; top: 42px; display:none;" class="alert alert-success reportAlertSuccess">
+   <div id="report-alert"  style="left: 50%; position: absolute; top: 42px; display:none;" class="alert alert-success">
    </div>
-   
 
-   
-  
-   <h3 >&{exoplatform.report.administration.title}</h3> 
- 
-  
+    <div id="report-alert-test-connection-error"  style="left: 50%; position: absolute; top: 161px; display:none;" class="alert alert-error">
+    </div>
 
-	<form id="Form" enctype="multipart/form-data" action="" method="POST" class="form-horizontal">
-			  
-	</form>
+    <div id="report-alert-error"  style="left: 38%; position: absolute; top: 172px; z-index:1000;display:none;">
+    </div>
+
+    <h3 >&{exoplatform.videocall.administration.title}</h3>
 
 </div>
 
