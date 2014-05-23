@@ -8,6 +8,7 @@
         <version>2</version>
         <relativePath/>
     </parent>
+	
     <groupId>org.exoplatform.addons.report</groupId>
     <artifactId>report-extension</artifactId>
     <version>1.0.x-SNAPSHOT</version>
